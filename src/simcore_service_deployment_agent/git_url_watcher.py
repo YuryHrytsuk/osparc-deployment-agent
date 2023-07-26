@@ -44,7 +44,6 @@ class WatchedGitRepoConfig:
       paths:
         - services/docker-compose.yml
         - .env-devel
-        - .env-wb-garbage-collector
     """
 
     repo_id: RepoID
